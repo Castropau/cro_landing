@@ -1,0 +1,86 @@
+{
+  "TabTitle": {
+    "home": "TS-Lines Pagproseso ng Dokumento"
+  },
+  "HomePage": {
+    "h1": "Iproseso ang Iyong Bill of Lading",
+    "br": "Mabilis at Ligtas gamit ang",
+    "title": "TS-LINES CRO",
+    "p": "Madaling iproseso ang iyong Bill of Lading, mag-upload ng mga kinakailangang dokumento, at kumpletuhin ang PayMaya payments — kahit kailan, kahit saan gamit ang TS-LINES CRO.",
+    "button1": "📄 Simulan ang Pagproseso",
+    "button2": "👤 Login ng Empleyado"
+  },
+  "Navbar": {
+    "home": "Home",
+    "process": "Proseso",
+    "how": "Paano Gamitin",
+    "contact": "Makipag-ugnayan",
+    "dev": "Ang Aming Koponan"
+  },
+  "Process": {
+    "h2": "Paano ang Proseso",
+    "step1Title": "Hakbang 1: Humiling ng Pagproseso",
+    "step1Desc": "Ilagay ang wastong Bill of Lading number, email address, at piliin ang kategorya. I-click ang 'Ipadala / Humiling ng Link' upang makatanggap ng access link.",
+    "step2Title": "Hakbang 2: Link sa Email at Bayad",
+    "step2Desc": "I-click ang link na ipinadala sa iyong email. Kung hindi pa bayad, ire-redirect ka sa PayMaya upang magbayad ng ₱165. Kung bayad na, maaari ka nang mag-upload ng mga dokumento.",
+    "step3Title": "Hakbang 3: Form ng Container",
+    "step3Desc": "Pagkatapos ng beripikasyon ng bayad, lalabas ang form ng container at maaari kang mag-upload ng larawan.",
+    "step4Title": "Hakbang 4: Form ng Container",
+    "step4Desc": "Pagkatapos ng beripikasyon ng bayad, lalabas ang form ng container at maaari kang mag-upload ng larawan."
+  },
+  "Features": {
+    "title": "Mga Tampok na Kasama",
+    "description": "Lahat ng kailangan mo upang iproseso ang CRO.",
+    "dashboard": "Dapat ay tama ang email upang makatanggap ng updates",
+    "secureTracking": "Ligtas na updates gamit ang email",
+    "mayaIntegration": "Suporta sa PayMaya payments",
+    "employeeManagement": "Pamamahala ng empleyado at papel",
+    "rolesControl": "Mga papel at kontrol ng departamento",
+    "accessSecurity": "Ligtas na kontrol sa pag-access",
+    "transactions": "Pagsubaybay at pag-filter ng transaksyon",
+    "announcements": "Board ng anunsyo na may attachments"
+  },
+  "FAQ": {
+    "title": "Mga Madalas Itanong",
+    "q1": "Paano ako magsisimula ng pagproseso ng aking Bill of Lading?",
+    "a1": "Ilagay ang iyong Bill of Lading number, email address, at kategorya ng transaksyon upang makatanggap ng access link sa email.",
+    "q2": "Paano ako makakabayad gamit ang PayMaya?",
+    "a2": "Kung kinakailangan ng bayad, ire-redirect ka sa PayMaya matapos i-click ang link sa iyong email upang ligtas na magbayad ng ₱165.",
+    "q3": "Ano ang mangyayari pagkatapos kong mag-upload ng mga dokumento?",
+    "a3": "Makakatanggap ka ng update sa email — kung aprubado, matatanggap mo ang iyong CRO at resibo. Kung may rejection, makakatanggap ka ng link para muling i-upload ang tinanggihang files.",
+    "q4": "Ligtas ba ang aking data?",
+    "a4": "Oo, tiyak na ligtas. Gumagamit kami ng email-based authentication at mahigpit na kontrol sa pag-access upang mapanatiling ligtas ang iyong impormasyon."
+  },
+  "ContactUs": {
+    "heading": "May mga katanungan pa rin?",
+    "description": "Kung hindi mo makita ang sagot sa aming FAQ, mangyaring makipag-ugnayan sa aming support team.",
+    "fullname": "Buong Pangalan",
+    "email": "Email",
+    "question": "Iyong Katanungan",
+    "button": "Ipadala ang Mensahe",
+    "sending": "Ipinapadala...",
+    "successMessage": "Matagumpay na naipadala ang mensahe!",
+    "errorMessage": "May nangyaring mali. Pakisubukang muli."
+  },
+  "footer": {
+    "copyright": "TS-LINES. Lahat ng karapatan ay nakalaan.",
+    "developed": "Dinisenyo ng",
+    "person1": "Roy Bustillo",
+    "person2": "Gibson Pascua",
+    "person3": "James Adrian Ymasa",
+    "person4": "Vincent Carl Calidguid",
+    "person5": "Richmond Sauro",
+    "person6": "Paulo Castro",
+    "person7": "James Chang",
+    "ourteam": "Ang Aming Koponan",
+    "call": "Tawagan",
+    "address": "Address"
+  },
+  "ContactInfo": {
+    "h1": "Makipag-ugnayan sa Amin",
+    "getInTouch": "Makipag-ugnayan",
+    "p": "9-A Apo Street, Brgy. Sta. Teresita, Quezon City, M.M. Philippines",
+    "a": "+63.999.8888.328",
+    "a2": "sales@alcon.ph.com"
+  }
+}

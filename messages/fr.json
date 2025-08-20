@@ -1,0 +1,97 @@
+{
+  "TabTitle": {
+    "home": "Créer une application Next"
+  },
+  "HomePage": {
+    "h1": "Suivez votre conteneur",
+    "br": "Facilement avec",
+    "title": "smartarksys",
+    "p": "Gérez les détails de vos conteneurs, accédez aux transactions et effectuez vos paiements Maya sans tracas — à tout moment, n'importe où avec smartarksys.",
+    "button1": "📦 Suivre le conteneur",
+    "button2": "👤 Connexion employé"
+  },
+  "Navbar": {
+    "home": "Accueil",
+    "process": "Processus",
+    "how": "Comment utiliser",
+    "contact": "Contactez-nous",
+    "dev": "Notre équipe"
+  },
+  
+  "Process": {
+    "h2": "Comment fonctionne le processus",
+    "step1Title": "Étape 1 : Saisir les informations du conteneur",
+    "step1Desc": "Saisissez votre numéro de conteneur, votre code d'entité, votre type de conteneur, sa taille et votre adresse e-mail pour commencer le suivi.",
+    "step2Title": "Étape 2 : Vérifier l'e-mail",
+    "step2Desc": "Un lien pour accéder à votre formulaire de conteneur vous sera envoyé par e-mail. Si un paiement est requis, vous serez redirigé vers Maya.",
+    "step3Title": "Étape 3 : Paiement via Maya",
+    "step3Desc": "Si le paiement n’a pas encore été effectué, scannez et payez via Maya. Une fois terminé, vous aurez accès aux informations de votre conteneur.",
+    "step4Title": "Étape 4 : Voir le formulaire du conteneur",
+    "step4Desc": "Après la vérification du paiement, le formulaire du conteneur s'affichera avec les informations de taille, de type et de marchandise."
+  },
+  
+  "Features": {
+    "title": "Fonctionnalités Incluses",
+    "description": "Tout ce dont vous avez besoin pour gérer le suivi des conteneurs, les paiements, les utilisateurs et la communication interne — en toute sécurité et efficacité.",
+    "dashboard": "Tableau de bord avec graphiques et calendrier",
+    "secureTracking": "Suivi sécurisé par e-mail",
+    "mayaIntegration": "Intégration du paiement Maya",
+    "employeeManagement": "Gestion des employés",
+    "rolesControl": "Rôles et contrôle des départements",
+    "accessSecurity": "Contrôle d'accès et sécurité",
+    "transactions": "Visualisation et filtrage des transactions",
+    "announcements": "Tableau d'affichage avec pièces jointes"
+  },
+  
+  "FAQ": {
+    "title": "Foire Aux Questions",
+    "q1": "Comment suivre mon conteneur ?",
+    "a1": "Entrez votre numéro de conteneur, code d'entité et e-mail pour commencer le suivi en temps réel.",
+    "q2": "Comment effectuer un paiement via Maya ?",
+    "a2": "Si un paiement est requis, vous serez redirigé vers Maya après avoir accédé à votre formulaire de conteneur.",
+    "q3": "Puis-je gérer plusieurs employés dans le système ?",
+    "a3": "Oui, notre plateforme vous permet d'ajouter et de gérer des employés avec différents rôles et niveaux d'accès.",
+    "q4": "Mes données sont-elles sécurisées ?",
+    "a4": "Absolument. Nous utilisons une authentification par e-mail et des contrôles d'accès stricts pour garantir la confidentialité et la sécurité de vos données."
+  },
+  
+  "ContactUs": {
+    "heading": "Vous avez encore des questions ?",
+    "description": "Si vous ne trouvez pas de réponse dans notre FAQ, n'hésitez pas à contacter notre équipe de support.",
+    "fullname": "Nom complet",
+    "email": "E-mail",
+    "question": "Votre question",
+    "button": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "successMessage": "Message envoyé avec succès !",
+    "errorMessage": "Une erreur s'est produite. Veuillez réessayer."
+  },
+  "footer": {
+    "copyright": "Smartarksys. Tous droits réservés.",
+    "developed": "Développé par",
+    "person1": "Roy Bustillo", 
+    "person2": "Gibson Pascua", 
+    "person3": "James Adrian Ymasa",
+    "person4": "Vincent Carl Calidguid",
+    "person5": "Richmond Sauro",
+    "person6": "Paulo Castro",
+    "person7": "James Chang",
+    "ourteam": "Notre équipe"  
+  },
+  "ContactInfo": {
+  "h1": "Contactez-nous",
+   "getInTouch": "Entrer en contact",
+   "p": "123 TS Lines Street, Manila, Philippines",
+   "a": "+1 (234) 567-890",
+   "a2": "contact@tslines.com"
+
+  }
+}
+
+
+
+
+
+
+
+

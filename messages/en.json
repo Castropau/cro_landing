@@ -1,0 +1,86 @@
+{
+  "TabTitle": {
+    "home": "TS-Lines Document Processing"
+  },
+  "HomePage": {
+    "h1": "Process Your Bill of Lading",
+    "br": "Quickly and Securely with",
+    "title": "TS-LINES DOCUMENT PROCESSING",
+    "p": "Easily process your Bill of Lading, upload required documents — anytime, anywhere with TS-LINES Document Processing.",
+    "button1": "📄 Start Processing",
+    "button2": "👤 Employee Login"
+  },
+  "Navbar": {
+    "home": "Home",
+    "process": "Process",
+    "how": "How to Use",
+    "contact": "Contact Us",
+    "dev": "Our Team"
+  },
+  "Process": {
+    "h2": "How the Process Works",
+    "step1Title": "Step 1: Request for Processing",
+    "step1Desc": "Enter a valid Bill of Lading number, email address, and select a  category. Click 'Send / Request a Link' to receive your access link.",
+    "step2Title": "Step 2: Email Link",
+    "step2Desc": "Click the link sent to your email. and after you can proceed directly to upload documents.",
+    "step3Title": "Step 3: BOL Form",
+    "step3Desc": "The BOL form is displayed the upload file",
+    "step4Title": "Step 4: BOL Form",
+    "step4Desc": "The BOL form is displayed the upload file"
+  },
+  "Features": {
+    "title": "Features Included",
+    "description": "Everything you need to process CRO.",
+    "dashboard": "Must correct email to sent updates",
+    "secureTracking": "Email-based secure updates",
+    "mayaIntegration": "PayMaya payment support",
+    "employeeManagement": "Employee and role management",
+    "rolesControl": "Department roles & control",
+    "accessSecurity": "Secure access control",
+    "transactions": "Transaction monitoring and filtering",
+    "announcements": "Announcement board with attachments"
+  },
+  "FAQ": {
+    "title": "Frequently Asked Questions",
+    "q1": "How do I start processing my Bill of Lading?",
+    "a1": "Enter your Bill of Lading number, email address, and category to receive an access link via email.",
+    "q2": "How do I make a payment via PayMaya?",
+    "a2": "If payment is required, you will be redirected to PayMaya after clicking the link in your email to pay ₱165 securely.",
+    "q3": "What happens after I upload my documents?",
+    "a3": "You will receive an email update — if approved, you’ll get your CRO and receipts. If rejected, you’ll get a link to re-upload only the rejected files.",
+    "q4": "Is my data secure?",
+    "a4": "Absolutely. We use email-based authentication and strict access controls to keep your information safe."
+  },
+  "ContactUs": {
+    "heading": "Still have questions?",
+    "description": "If you can't find the answer in our FAQ, please reach out to our support team.",
+    "fullname": "Full Name",
+    "email": "Email",
+    "question": "Your Question",
+    "button": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Message sent successfully!",
+    "errorMessage": "Something went wrong. Please try again."
+  },
+  "footer": {
+    "copyright": "Smartark sys. All rights reserved.",
+    "developed": "Developed by",
+    "person1": "Roy Bustillo", 
+    "person2": "Gibson Pascua", 
+    "person3": "James Adrian Ymasa",
+    "person4": "Vincent Carl Calidguid",
+    "person5": "Richmond Sauro",
+    "person6": "Paulo Castro",
+    "person7": "James Chang",
+    "ourteam": "Our Team",
+    "call": "Call",
+    "address": "Address"
+  },
+  "ContactInfo": {
+    "h1": "Contact Us",
+    "getInTouch": " Get in Touch",
+    "p": "9-A Apo Street, Brgy. Sta. Teresita, Quezon City, M.M. Philippines",
+    "a": "+63.999.8888.328",
+    "a2": "sales@alcon.ph.com"
+  }
+}

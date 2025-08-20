@@ -1,0 +1,86 @@
+{
+  "TabTitle": {
+    "home": "Crear Aplicación Next"
+  },
+  "HomePage": {
+    "h1": "Rastrea Tu Contenedor",
+    "br": "Fácilmente con",
+    "title": "smartarksys",
+    "p": "Administra los detalles del contenedor, accede a transacciones y realiza pagos con Maya sin complicaciones — en cualquier momento y lugar con smartarksys.",
+    "button1": "📦 Rastrear Contenedor",
+    "button2": "👤 Ingreso de Empleado"
+  },
+  "Navbar": {
+    "home": "Inicio",
+    "process": "Proceso",
+    "how": "Cómo Usar",
+    "contact": "Contáctanos",
+    "dev": "Nuestro Equipo"
+  },
+  "Process": {
+    "h2": "Cómo Funciona el Proceso",
+    "step1Title": "Paso 1: Ingresar Información del Contenedor",
+    "step1Desc": "Introduce el número de contenedor, código de entidad, tipo de contenedor, tamaño y correo electrónico para comenzar el rastreo.",
+    "step2Title": "Paso 2: Revisa tu Correo",
+    "step2Desc": "Se enviará un enlace por correo electrónico para acceder al formulario del contenedor. Si se requiere pago, serás redirigido a Maya.",
+    "step3Title": "Paso 3: Pago con Maya",
+    "step3Desc": "Si no se ha pagado, escanea y paga usando Maya. Una vez completado, tendrás acceso a la información de tu contenedor.",
+    "step4Title": "Paso 4: Ver Formulario del Contenedor",
+    "step4Desc": "Después de verificar el pago, se mostrará el formulario del contenedor con información de tamaño, tipo y mercancía."
+  },
+  "Features": {
+    "title": "Funciones Incluidas",
+    "description": "Todo lo que necesitas para gestionar el rastreo de contenedores, pagos, usuarios y comunicación interna — de forma segura y eficiente.",
+    "dashboard": "Panel con gráficos y calendario",
+    "secureTracking": "Rastreo seguro basado en correo electrónico",
+    "mayaIntegration": "Integración de pagos con Maya",
+    "employeeManagement": "Gestión de empleados",
+    "rolesControl": "Roles y control por departamento",
+    "accessSecurity": "Control de acceso y seguridad",
+    "transactions": "Visualización y filtrado de transacciones",
+    "announcements": "Tablón de anuncios con archivos adjuntos"
+  },
+  "FAQ": {
+    "title": "Preguntas Frecuentes",
+    "q1": "¿Cómo rastreo mi contenedor?",
+    "a1": "Ingresa tu número de contenedor, código de entidad y correo electrónico para comenzar a rastrear tu envío en tiempo real.",
+    "q2": "¿Cómo realizo un pago con Maya?",
+    "a2": "Si se requiere pago, serás redirigido a Maya después de acceder al formulario del contenedor para completar la transacción de forma segura.",
+    "q3": "¿Puedo gestionar múltiples empleados en el sistema?",
+    "a3": "Sí, nuestra plataforma te permite añadir y gestionar empleados con diferentes roles y niveles de acceso.",
+    "q4": "¿Mis datos están seguros?",
+    "a4": "Absolutamente. Utilizamos autenticación basada en correo electrónico y estrictos controles de acceso para garantizar la privacidad y seguridad de tus datos."
+  },
+  "ContactUs": {
+    "heading": "¿Aún tienes preguntas?",
+    "description": "Si no encuentras una respuesta en nuestras Preguntas Frecuentes, no dudes en contactar a nuestro equipo de soporte.",
+    "fullname": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "question": "Tu Pregunta",
+    "button": "Enviar Mensaje",
+    "sending": "Enviando...",
+    "successMessage": "¡Mensaje enviado con éxito!",
+    "errorMessage": "Algo salió mal. Por favor, intenta nuevamente."
+  },
+  "footer": {
+    "copyright": "Smartarksys. Todos los derechos reservados.",
+    "developed": "Desarrollado por",
+    "person1": "Roy Bustillo",
+    "person2": "Gibson Pascua",
+    "person3": "James Adrian Ymasa",
+    "person4": "Vincent Carl Calidguid",
+    "person5": "Richmond Sauro",
+    "person6": "Paulo Castro",
+    "person7": "James Chang",
+    "ourteam": "Nuestro Equipo",
+    "call": "Llamar",
+    "address": "Dirección"
+  },
+  "ContactInfo": {
+    "h1": "Contáctanos",
+    "getInTouch": "Ponte en Contacto",
+    "p": "Calle Apo 9-A, Brgy. Sta. Teresita, Ciudad Quezon, M.M. Filipinas",
+    "a": "+63.999.8888.328",
+    "a2": "sales@alcon.ph.com"
+  }
+}

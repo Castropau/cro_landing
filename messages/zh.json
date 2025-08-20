@@ -1,0 +1,86 @@
+{
+  "TabTitle": {
+    "home": "创建 Next 应用"
+  },
+  "HomePage": {
+    "h1": "追踪您的集装箱",
+    "br": "轻松使用",
+    "title": "smartarksys",
+    "p": "管理集装箱信息，访问交易记录，并使用 Maya 无忧付款 —— 随时随地使用 smartarksys。",
+    "button1": "📦 追踪集装箱",
+    "button2": "👤 员工登录"
+  },
+  "Navbar": {
+    "home": "首页",
+    "process": "流程",
+    "how": "使用方法",
+    "contact": "联系我们",
+    "dev": "我们的团队"
+  },
+  "Process": {
+    "h2": "流程如何运作",
+    "step1Title": "步骤 1：输入集装箱信息",
+    "step1Desc": "输入您的集装箱号、单位代码、类型、尺寸以及电子邮件地址以开始追踪。",
+    "step2Title": "步骤 2：检查电子邮件",
+    "step2Desc": "一个用于访问集装箱表单的链接将通过电子邮件发送。如果需要付款，您将被重定向至 Maya。",
+    "step3Title": "步骤 3：Maya 支付",
+    "step3Desc": "如未支付，请使用 Maya 扫码付款。完成后，您将获得集装箱信息的访问权限。",
+    "step4Title": "步骤 4：查看集装箱表单",
+    "step4Desc": "付款验证后，将显示包含尺寸、类型和货物信息的集装箱表单。"
+  },
+  "Features": {
+    "title": "功能亮点",
+    "description": "您需要的一切，用于管理集装箱追踪、付款、用户和内部沟通 —— 安全高效。",
+    "dashboard": "带图表和日历的仪表板",
+    "secureTracking": "基于电子邮件的安全追踪",
+    "mayaIntegration": "集成 Maya 支付",
+    "employeeManagement": "员工管理",
+    "rolesControl": "部门角色与权限控制",
+    "accessSecurity": "访问控制与安全性",
+    "transactions": "交易查看与筛选",
+    "announcements": "带附件的公告栏"
+  },
+  "FAQ": {
+    "title": "常见问题",
+    "q1": "我如何追踪我的集装箱？",
+    "a1": "输入您的集装箱号、单位代码和电子邮件，即可开始实时追踪您的货物。",
+    "q2": "我如何通过 Maya 付款？",
+    "a2": "如需付款，访问集装箱表单后将跳转至 Maya，安全完成交易。",
+    "q3": "我可以在系统中管理多个员工吗？",
+    "a3": "可以，我们的平台允许您添加并管理具有不同角色和权限的员工。",
+    "q4": "我的数据安全吗？",
+    "a4": "当然安全。我们使用基于电子邮件的身份验证和严格的访问控制，确保您的数据隐私和安全。"
+  },
+  "ContactUs": {
+    "heading": "还有问题吗？",
+    "description": "如果在常见问题中找不到答案，欢迎联系我们的支持团队。",
+    "fullname": "姓名",
+    "email": "电子邮件",
+    "question": "您的问题",
+    "button": "发送消息",
+    "sending": "发送中...",
+    "successMessage": "消息发送成功！",
+    "errorMessage": "发生错误，请重试。"
+  },
+  "footer": {
+    "copyright": "Smartarksys 版权所有。",
+    "developed": "开发者",
+    "person1": "Roy Bustillo",
+    "person2": "Gibson Pascua",
+    "person3": "James Adrian Ymasa",
+    "person4": "Vincent Carl Calidguid",
+    "person5": "Richmond Sauro",
+    "person6": "Paulo Castro",
+    "person7": "James Chang",
+    "ourteam": "我们的团队",
+    "call": "电话",
+    "address": "地址"
+  },
+  "ContactInfo": {
+    "h1": "联系我们",
+    "getInTouch": "保持联系",
+    "p": "菲律宾奎松市 Sta. Teresita 区 Apo 街 9-A",
+    "a": "+63.999.8888.328",
+    "a2": "sales@alcon.ph.com"
+  }
+}
