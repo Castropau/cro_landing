@@ -76,6 +76,22 @@
     "call": "Call",
     "address": "Address"
   },
+  "ticket": {
+    "h1": "Submit a Ticket",
+    "email": "Email",
+    "Emailplaceholder": "Your email",
+     "concern": "Concern",
+     "Concernplaceholder": "Describe your concern",
+     "submitting": "Submitting...",
+     "submit": "Submit Ticket",
+     "setMessageSubmitted": "Ticket submitted successfully! Your Ticket Number:",
+     "setMessageSubmitted1": "take a screen shot for reference",
+     "setMessageLimit": "You have reached the daily limit of 5 tickets.",
+     "setMessageError": "Error",
+     "setMessageErrorKnown": "Error:",
+    "setMessageErrorUnknown": "An unknown error occurred."
+     
+  },
   "ContactInfo": {
     "h1": "Contact Us",
     "getInTouch": " Get in Touch",

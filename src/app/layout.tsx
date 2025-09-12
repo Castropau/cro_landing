@@ -6,7 +6,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { getLocale, getMessages } from "next-intl/server";
 import { ThemeProvider } from "./Context/ThemeContext";
 import Providers from "./ReactQueryProvider";
-import Navbar from "./components/Navbar";
+// import Navbar from "./components/Navbar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -42,7 +42,7 @@ export default async function RootLayout({
         <ThemeProvider>
           <NextIntlClientProvider messages={messages}>
             <Providers>
-              <Navbar />
+              {/* <Navbar /> */}
               {children}
               {/* <Footer /> */}
             </Providers>

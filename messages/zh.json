@@ -62,6 +62,23 @@
     "successMessage": "消息发送成功！",
     "errorMessage": "发生错误，请重试。"
   },
+  "ticket": {
+  "h1": "提交工单",
+  "email": "电子邮箱",
+  "Emailplaceholder": "请输入您的邮箱",
+  "concern": "问题",
+  "Concernplaceholder": "请描述您的问题",
+  "submitting": "提交中...",
+  "submit": "提交工单",
+  "setMessageSubmitted": "工单提交成功！您的工单编号是：",
+  "setMessageSubmitted1": "请截图保存以备参考",
+  "setMessageLimit": "您已达到每日提交5张工单的限制。",
+  "setMessageError": "错误",
+  "setMessageErrorKnown": "错误：",
+"setMessageErrorUnknown": "发生了未知错误。"
+
+},
+
   "footer": {
     "copyright": "Smartarksys 版权所有。",
     "developed": "开发者",

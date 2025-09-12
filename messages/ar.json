@@ -62,6 +62,22 @@
     "successMessage": "تم إرسال الرسالة بنجاح!",
     "errorMessage": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
   },
+  "ticket": {
+  "h1": "إرسال تذكرة",
+  "email": "البريد الإلكتروني",
+  "Emailplaceholder": "بريدك الإلكتروني",
+  "concern": "المشكلة",
+  "Concernplaceholder": "صف مشكلتك",
+  "submitting": "جاري الإرسال...",
+  "submit": "إرسال التذكرة",
+  "setMessageSubmitted": "تم إرسال التذكرة بنجاح! رقم التذكرة الخاص بك:",
+  "setMessageSubmitted1": "يُرجى أخذ لقطة شاشة للاحتفاظ بها",
+  "setMessageLimit": "لقد وصلت إلى الحد اليومي وهو 5 تذاكر.",
+  "setMessageError": "خطأ",
+  "setMessageErrorKnown": "خطأ:",
+"setMessageErrorUnknown": "حدث خطأ غير معروف."
+},
+
   "footer": {
     "copyright": "Smartarksys. كل الحقوق محفوظة.",
     "developed": "تم التطوير بواسطة",

@@ -66,6 +66,22 @@
     "successMessage": "Message envoyé avec succès !",
     "errorMessage": "Une erreur s'est produite. Veuillez réessayer."
   },
+  "ticket": {
+  "h1": "Soumettre un Ticket",
+  "email": "Email",
+  "Emailplaceholder": "Votre email",
+  "concern": "Problème",
+  "Concernplaceholder": "Décrivez votre problème",
+  "submitting": "Envoi en cours...",
+  "submit": "Soumettre le Ticket",
+  "setMessageSubmitted": "Ticket soumis avec succès ! Votre numéro de ticket :",
+  "setMessageSubmitted1": "veuillez prendre une capture d’écran pour référence",
+  "setMessageLimit": "Vous avez atteint la limite quotidienne de 5 tickets.",
+  "setMessageError": "Erreur",
+  "setMessageErrorKnown": "Erreur :",
+"setMessageErrorUnknown": "Une erreur inconnue s'est produite."
+},
+
   "footer": {
     "copyright": "Smartarksys. Tous droits réservés.",
     "developed": "Développé par",

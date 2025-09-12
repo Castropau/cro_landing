@@ -62,6 +62,24 @@
     "successMessage": "संदेश सफलतापूर्वक भेजा गया!",
     "errorMessage": "कुछ गलत हो गया। कृपया पुनः प्रयास करें।"
   },
+  "ticket": {
+  "h1": "टिकट सबमिट करें",
+  "email": "ईमेल",
+  "Emailplaceholder": "आपका ईमेल",
+  "concern": "समस्या",
+  "Concernplaceholder": "अपनी समस्या का विवरण दें",
+  "submitting": "भेजा जा रहा है...",
+  "submit": "टिकट सबमिट करें",
+  "setMessageSubmitted": "टिकट सफलतापूर्वक सबमिट हो गया है! आपका टिकट नंबर:",
+  "setMessageSubmitted1": "कृपया संदर्भ के लिए स्क्रीनशॉट लें",
+  "setMessageLimit": "आपने दैनिक 5 टिकट की सीमा पार कर ली है।",
+  "setMessageError": "त्रुटि",
+  "setMessageErrorKnown": "त्रुटि:",
+"setMessageErrorUnknown": "एक अज्ञात त्रुटि हुई।"
+
+},
+
+  
   "footer": {
     "copyright": "Smartarksys। सर्वाधिकार सुरक्षित।",
     "developed": "विकसित किया गया द्वारा",

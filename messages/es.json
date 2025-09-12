@@ -62,6 +62,23 @@
     "successMessage": "¡Mensaje enviado con éxito!",
     "errorMessage": "Algo salió mal. Por favor, intenta nuevamente."
   },
+  "ticket": {
+  "h1": "Enviar un Ticket",
+  "email": "Correo Electrónico",
+  "Emailplaceholder": "Tu correo electrónico",
+  "concern": "Consulta",
+  "Concernplaceholder": "Describe tu consulta",
+  "submitting": "Enviando...",
+  "submit": "Enviar Ticket",
+  "setMessageSubmitted": "¡Ticket enviado con éxito! Tu número de ticket es:",
+  "setMessageSubmitted1": "toma una captura de pantalla como referencia",
+  "setMessageLimit": "Has alcanzado el límite diario de 5 tickets.",
+  "setMessageError": "Error",
+   "setMessageErrorKnown": "Error:",
+"setMessageErrorUnknown": "Ocurrió un error desconocido."
+  
+},
+
   "footer": {
     "copyright": "Smartarksys. Todos los derechos reservados.",
     "developed": "Desarrollado por",

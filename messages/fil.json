@@ -62,6 +62,22 @@
     "successMessage": "Matagumpay na naipadala ang mensahe!",
     "errorMessage": "May nangyaring mali. Pakisubukang muli."
   },
+  "ticket": {
+  "h1": "Magpadala ng Ticket",
+  "email": "Email",
+  "Emailplaceholder": "Iyong email",
+  "concern": "Alalahanin",
+  "Concernplaceholder": "Ilarawan ang iyong alalahanin",
+  "submitting": "Ipinapadala...",
+  "submit": "Ipadala ang Ticket",
+  "setMessageSubmitted": "Matagumpay na naipadala ang ticket! Ang iyong Ticket Number:",
+  "setMessageSubmitted1": "mangyaring kumuha ng screenshot bilang reference",
+  "setMessageLimit": "Naabot mo na ang pang-araw-araw na limit na 5 tickets.",
+  "setMessageError": "Error",
+  "setMessageErrorKnown": "Error:",
+"setMessageErrorUnknown": "Nagkaroon ng hindi kilalang error."
+},
+
   "footer": {
     "copyright": "TS-LINES. Lahat ng karapatan ay nakalaan.",
     "developed": "Dinisenyo ng",

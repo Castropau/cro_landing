@@ -13,14 +13,12 @@
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
-
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
   }
 }
-
 body {
   /* background: var(--background); */
   color: var(--foreground);
@@ -184,4 +182,42 @@ body {
   --z-index-9999: 9999;
   --z-index-99999: 99999;
   --z-index-999999: 999999;
+}
+.ag-theme-dark .ag-cell {
+  background-color: #1f2937 !important; /* Tailwind gray-800 */
+  color: #f9fafb !important; /* Tailwind gray-50 */
+}
+.ag-theme-alpine .ag-paging-panel {
+  background-color: white;
+  color: black;
+}
+
+.dark .ag-theme-alpine .ag-paging-panel,
+.ag-theme-alpine-dark .ag-paging-panel {
+  background-color: #0f172a;
+  color: #f1f5f9;
+  border-top: 1px solid #1e293b;
+}
+
+.dark .ag-theme-alpine .ag-paging-panel button,
+.ag-theme-alpine-dark .ag-paging-panel button {
+  background: transparent;
+  color: #cbd5e1;
+  border: none;
+}
+
+.dark .ag-theme-alpine .ag-paging-panel button:hover,
+.ag-theme-alpine-dark .ag-paging-panel button:hover {
+  background-color: #1e293b;
+  color: white;
+}
+.dark .ag-theme-alpine .ag-cell {
+  background-color: #1f2937;
+  color: #f9fafb !important;
+}
+/* Ensure all AG Grid rows (even with 1 row) have dark background */
+.dark .ag-theme-alpine .ag-center-cols-container,
+.dark .ag-theme-alpine .ag-center-cols-container .ag-row .ag-cell {
+  background-color: #1f2937 !important; /* Tailwind gray-800 */
+  color: #f9fafb !important; /* Tailwind gray-50 */
 }
