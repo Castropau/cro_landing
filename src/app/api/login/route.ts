@@ -122,14 +122,14 @@ const {
   GMAIL_REFRESH_TOKEN,
 } = process.env;
 
-if (
-  !GMAIL_CLIENT_ID ||
-  !GMAIL_CLIENT_SECRET ||
-  !GMAIL_REDIRECT_URI ||
-  !GMAIL_REFRESH_TOKEN
-) {
-  throw new Error("Missing Gmail OAuth environment variables");
-}
+// if (
+//   !GMAIL_CLIENT_ID ||
+//   !GMAIL_CLIENT_SECRET ||
+//   !GMAIL_REDIRECT_URI ||
+//   !GMAIL_REFRESH_TOKEN
+// ) {
+//   throw new Error("Missing Gmail OAuth environment variables");
+// }
 
 const oAuth2Client = new google.auth.OAuth2(
   GMAIL_CLIENT_ID,
